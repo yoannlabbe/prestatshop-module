@@ -1,0 +1,1 @@
+# prestatshop-module
